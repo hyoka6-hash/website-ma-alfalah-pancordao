@@ -1401,7 +1401,7 @@ export default function App() {
   const [teachers, setTeachers] = useState<Teacher[]>([]);
   const [articles, setArticles] = useState<Article[]>([]);
   const [stats, setStats] = useState<Stat[]>([]);
-  const [schoolName, setSchoolName] = useState('SD Harapan Bangsa');
+  const [schoolName, setSchoolName] = useState('MA AL FALAH PANCORDAO');
   const [heroImage, setHeroImage] = useState('https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80');
   const [visi, setVisi] = useState('Terwujudnya peserta didik yang beriman, cerdas, terampil, mandiri, dan berwawasan global.');
   const [misi, setMisi] = useState([
